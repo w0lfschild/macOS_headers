@@ -1,0 +1,33 @@
+Applications/Battle.net : 1.14.1 (11145)
+Applications/Google Chrome Canary : 3791.0
+Applications/HSTracker : 1999
+Applications/Keynote : 6197
+Applications/Parallels Desktop : 45485
+Applications/Safari : 14607.2.6.1.1
+Applications/Spotify : 1.1.6.113.gb388fe17-29
+Applications/stts : 34
+Utilities/Bluetooth File Exchange : 6.0.12f1
+Frameworks/AppKit : 1671.50.111
+Frameworks/IOBluetooth : 6.0.12f1
+Frameworks/IOBluetoothUI : 6.0.12f1
+Frameworks/JavaScriptCore : 14607.2.6.1.1
+Frameworks/SafariServices : 14607.2.6.1.1
+Frameworks/WebKit : 14607.2.6.1.1
+PrivateFrameworks/APTransport : 383.4.3
+PrivateFrameworks/AirPlayReceiver : 383.4.3
+PrivateFrameworks/AirPlaySender : 383.4.3
+PrivateFrameworks/AirPlaySupport : 383.4.3
+PrivateFrameworks/MediaControlSender : 383.4.3
+PrivateFrameworks/Safari : 14607.2.6.1.1
+PrivateFrameworks/SafariCore : 14607.2.6.1.1
+PrivateFrameworks/SafariSafeBrowsing : 14607.2.6.1.1
+PrivateFrameworks/SafariShared : 14607.2.6.1.1
+PrivateFrameworks/WebDriver : 14607.2.6.1.1
+PrivateFrameworks/WebInspector : 14607.2.6.1.1
+PrivateFrameworks/WebInspectorUI : 14607.2.6.1.1
+CoreServices/AirPlayUIAgent : 383.4.3
+CoreServices/Bluetooth Setup Assistant : 6.0.12f1
+CoreServices/BluetoothUIServer : 6.0.12f1
+CoreServices/OBEXAgent : 6.0.12f1
+PrivateFrameworks/WebCore : 14607.2.6.1.1
+PrivateFrameworks/WebKitLegacy : 14607.2.6.1.1

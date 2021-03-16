@@ -1,0 +1,34 @@
+Applications/Battle.net : 1.12.7 (10840)
+Applications/Brightness Slider : 1
+Applications/Google Chrome Canary : 3639.1
+Applications/Google Chrome : 3578.98
+Applications/IINA : 95
+Applications/Safari : 14606.4.2
+Frameworks/CloudKit : 736.175
+Frameworks/CoreMedia : 2285.40.1.1
+Frameworks/CoreTelephony : 6620
+Frameworks/JavaScriptCore : 14606.4.2
+Frameworks/MediaToolbox : 2285.40.1.1
+Frameworks/SafariServices : 14606.4.2
+Frameworks/Security : 58286.240.4
+Frameworks/VideoToolbox : 2285.40.1.1
+Frameworks/WebKit : 14606.4.2
+PrivateFrameworks/C2 : 438.195
+PrivateFrameworks/CallHistory : 870.5
+PrivateFrameworks/CloudKitDaemon : 736.175
+PrivateFrameworks/CoreParsec : 213.2.4.3
+PrivateFrameworks/MMCS : 438.195
+PrivateFrameworks/RemoteServiceDiscovery : 1336.240.1
+PrivateFrameworks/RemoteXPC : 1336.240.1
+PrivateFrameworks/Safari : 14606.4.2
+PrivateFrameworks/SafariCore : 14606.4.2
+PrivateFrameworks/SafariSafeBrowsing : 14606.4.2
+PrivateFrameworks/SafariShared : 14606.4.2
+PrivateFrameworks/SearchFoundation : 213.2.4.3
+PrivateFrameworks/Sharing : 1214.19
+PrivateFrameworks/WebDriver : 14606.4.2
+PrivateFrameworks/WebInspector : 14606.4.2
+PrivateFrameworks/WebInspectorUI : 14606.4.2
+CoreServices/Keychain Circle Notification : 58286.240.4
+PrivateFrameworks/WebCore : 14606.4.2
+PrivateFrameworks/WebKitLegacy : 14606.4.2

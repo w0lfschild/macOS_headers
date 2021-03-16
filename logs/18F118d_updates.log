@@ -1,0 +1,125 @@
+Applications/Calendar : 2245.5.2
+Applications/Google Chrome Canary : 3777.0
+Applications/Keka : 3291
+Applications/News : 2128
+Applications/PhotoScapeX : 300
+Applications/Photos : 3451.7.100
+Applications/Safari Technology Preview : 14608.1.16
+Applications/Safari : 14607.2.4.1
+Applications/Spotify : 1.1.5.153.gf614956d-20
+Applications/Xcode : 14490.122
+Applications/iTunes : 12.9.5
+Applications/stts : 33
+Utilities/Bluetooth File Exchange : 6.0.12d18
+Utilities/Boot Camp Assistant : 6067.260.25
+Utilities/VoiceOver Utility : 562.858
+Frameworks/AVFoundation : 1548.22
+Frameworks/AppKit : 1671.50.105
+Frameworks/CoreDisplay : 109.18
+Frameworks/CoreGraphics : 1260.1
+Frameworks/CoreImage : 750.0.140
+Frameworks/CoreLocation : 2245.16.11
+Frameworks/CoreMedia : 2288.39
+Frameworks/CoreTelephony : 6833.1
+Frameworks/IOBluetooth : 6.0.12d18
+Frameworks/IOBluetoothUI : 6.0.12d18
+Frameworks/InputMethodKit : 365.26
+Frameworks/JavaScriptCore : 14607.2.4.1
+Frameworks/MapKit : 1832.25.12.18.16
+Frameworks/MediaToolbox : 2288.39
+Frameworks/Photos : 3451.7.100
+Frameworks/PhotosUI : 3451.7.100
+Frameworks/QTKit : 3040
+Frameworks/QuartzCore : 699.26.4.1
+Frameworks/QuickLook : 775.6
+Frameworks/QuickTime : 3040
+Frameworks/SafariServices : 14607.2.4.1
+Frameworks/Security : 58286.260.20
+Frameworks/VideoSubscriberAccount : 291
+Frameworks/VideoToolbox : 2288.39
+Frameworks/WebKit : 14607.2.4.1
+Frameworks/iTunesLibrary : 12.9.5
+PrivateFrameworks/APTransport : 381.17
+PrivateFrameworks/AVConference : 1470.4.2
+PrivateFrameworks/AirPlayReceiver : 381.17
+PrivateFrameworks/AirPlaySender : 381.17
+PrivateFrameworks/AirPlaySupport : 381.17
+PrivateFrameworks/Apple80211 : 1380.2
+PrivateFrameworks/AppleGVA : 11.10.13
+PrivateFrameworks/AppleGVACore : 11.10.13
+PrivateFrameworks/AssetsLibraryServices : 3451.6.241
+PrivateFrameworks/BaseBoard : 360.28
+PrivateFrameworks/CloudPhotoLibrary : 3451.1.120
+PrivateFrameworks/CloudPhotoServices : 3451.7.100
+PrivateFrameworks/CommerceKit : 708.4.1
+PrivateFrameworks/CoreChineseEngine : 391.18
+PrivateFrameworks/CoreHAP : 484.6.9
+PrivateFrameworks/CoreMediaAuthoring : 959
+PrivateFrameworks/CoreUtils : 580.19
+PrivateFrameworks/DCIMServices : 3451.6.241
+PrivateFrameworks/EasyConfig : 580.19
+PrivateFrameworks/GameKitServices : 1470.4.2
+PrivateFrameworks/HomeKit : 484.6.9
+PrivateFrameworks/HomeKitDaemon : 484.6.9
+PrivateFrameworks/LinguisticData : 238.25
+PrivateFrameworks/LoggingSupport : 906.260.1
+PrivateFrameworks/MediaControlSender : 381.17
+PrivateFrameworks/NearField : 295.4
+PrivateFrameworks/OSPersonalization : 55.4
+PrivateFrameworks/PackageKit : 831
+PrivateFrameworks/PhotoFoundation : 3451.7.100
+PrivateFrameworks/PhotoLibrary : 3451.7.100
+PrivateFrameworks/PhotoLibraryPrivate : 3451.7.100
+PrivateFrameworks/PhotosFormats : 3451.7.100
+PrivateFrameworks/PhotosImagingFoundation : 3451.7.100
+PrivateFrameworks/PhotosPlayer : 3451.4.100
+PrivateFrameworks/PhotosUICore : 3451.4.190
+PrivateFrameworks/PlacesKit : 3451.4.190
+PrivateFrameworks/Rapport : 170.17
+PrivateFrameworks/RapportUI : 170.17
+PrivateFrameworks/RemoteServiceDiscovery : 1336.260.13.100.1
+PrivateFrameworks/RemoteXPC : 1336.260.13.100.1
+PrivateFrameworks/Safari : 14607.2.4.1
+PrivateFrameworks/SafariCore : 14607.2.4.1
+PrivateFrameworks/SafariSafeBrowsing : 14607.2.4.1
+PrivateFrameworks/SafariShared : 14607.2.4.1
+PrivateFrameworks/ScreenReader : 562.858
+PrivateFrameworks/ScreenReaderCore : 562.858
+PrivateFrameworks/ScreenSharing : 498.150
+PrivateFrameworks/Sharing : 1288.43
+PrivateFrameworks/SignpostCollection : 31
+PrivateFrameworks/SignpostMetrics : 31
+PrivateFrameworks/SignpostNotification : 31
+PrivateFrameworks/SignpostSupport : 31
+PrivateFrameworks/SoftwareUpdate : 1173.5
+PrivateFrameworks/StoreFoundation : 708.4.1
+PrivateFrameworks/StoreJavaScript : 708.4.1
+PrivateFrameworks/StoreUI : 708.4.1
+PrivateFrameworks/WebDriver : 14607.2.4.1
+PrivateFrameworks/WebInspector : 14607.2.4.1
+PrivateFrameworks/WebInspectorUI : 14607.2.4.1
+CoreServices/AirPlayUIAgent : 381.17
+CoreServices/Bluetooth Setup Assistant : 6.0.12d18
+CoreServices/BluetoothUIServer : 6.0.12d18
+CoreServices/CoreServicesUIAgent : 221
+CoreServices/Install in Progress : 831
+CoreServices/Keychain Circle Notification : 58286.260.20
+CoreServices/OBEXAgent : 6.0.12d18
+CoreServices/Paired Devices : 170.17
+CoreServices/RapportUIAgent : 170.17
+CoreServices/Software Update : 1173.5
+CoreServices/VoiceOver : 562.858
+CoreServices/WiFiAgent : 1380.2
+CoreServices/cloudphotosd : 3451.7.100
+Applications/Screen Sharing : 498.150
+PrivateFrameworks/BaseBoardUI : 360.28
+PrivateFrameworks/NewsCore : 2128
+PrivateFrameworks/NewsFeedLayout : 2128
+PrivateFrameworks/NewsFoundation : 2128
+PrivateFrameworks/NewsServicesInternal : 2128
+PrivateFrameworks/NewsTransport : 2128
+PrivateFrameworks/NewsUI : 2128
+PrivateFrameworks/RemoteConfiguration : 2128
+PrivateFrameworks/Silex : 2128
+PrivateFrameworks/WebCore : 14607.2.4.1
+PrivateFrameworks/WebKitLegacy : 14607.2.4.1

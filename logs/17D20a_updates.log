@@ -1,0 +1,44 @@
+Applications/Battle.net : 1.9.3 (9670)
+Applications/Google Chrome Canary : 3298.0
+Applications/HSTracker : 1838
+Applications/Safari : 13604.5.2
+Applications/Spotify : 1.0.70.388.g8e1ed5af-16
+Utilities/Boot Camp Assistant : 6067.40.1
+Frameworks/AVFoundation : 1530.2
+Frameworks/CloudKit : 735.4
+Frameworks/CoreMedia : 2270.8
+Frameworks/CoreTelephony : 5642
+Frameworks/JavaScriptCore : 13604.5.2
+Frameworks/Kernel : 17.4.0
+Frameworks/MediaToolbox : 2270.8
+Frameworks/QuartzCore : 584.8.102
+Frameworks/SafariServices : 13604.5.2
+Frameworks/Security : 58286.40.8
+Frameworks/VideoToolbox : 2270.8
+Frameworks/WebKit : 13604.5.2
+PrivateFrameworks/APTransport : 356.11
+PrivateFrameworks/AirPlayReceiver : 356.11
+PrivateFrameworks/AirPlaySender : 356.11
+PrivateFrameworks/AirPlaySupport : 356.11
+PrivateFrameworks/CloudKitDaemon : 735.4
+PrivateFrameworks/CoreTime : 224.1
+PrivateFrameworks/CoreUtils : 530.60
+PrivateFrameworks/EasyConfig : 530.60
+PrivateFrameworks/GeoServices : 1359.23.11.28.2
+PrivateFrameworks/MediaControlSender : 356.11
+PrivateFrameworks/MobileAsset : 437.40.1
+PrivateFrameworks/Rapport : 120.51
+PrivateFrameworks/RapportUI : 120.51
+PrivateFrameworks/Safari : 13604.5.2
+PrivateFrameworks/SafariCore : 13604.5.2
+PrivateFrameworks/SafariSafeBrowsing : 13604.5.2
+PrivateFrameworks/SafariShared : 13604.5.2
+PrivateFrameworks/Sharing : 972.14
+PrivateFrameworks/SystemMigration : 1160
+PrivateFrameworks/WebDriver : 13604.5.2
+PrivateFrameworks/WebInspector : 13604.5.2
+PrivateFrameworks/WebInspectorUI : 13604.5.2
+CoreServices/AirPlayUIAgent : 356.11
+CoreServices/Keychain Circle Notification : 58286.40.8
+CoreServices/Paired Devices : 120.51
+CoreServices/RapportUIAgent : 120.51

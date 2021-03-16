@@ -1,0 +1,63 @@
+Applications/DaisyDisk : 4.8.2
+Applications/Dozer : 29
+Applications/Google Chrome Canary : 3987.2
+Applications/Google Chrome : 3904.108
+Applications/Hex Fiend : 1549175187
+Applications/MacForge : 2508
+Applications/Mousecape : 1710
+Applications/Plex Media Server : 1.18.2.2058
+Applications/RunCat : 6.5.0
+Applications/Safari Technology Preview : 15609.1.9.7
+Applications/iCursor : 1.70
+Applications/iTerm : 3.3.7
+Applications/uBar : 415
+Applications/Calculator : 213.2
+Applications/Contacts : 2421.4.1
+Applications/Photos : 121.17.170
+Frameworks/AppKit : 3
+Frameworks/ApplicationServices : 2445
+Frameworks/Carbon : 3787
+Frameworks/Cocoa : 10903
+Frameworks/ContactsUI : 9
+Frameworks/CoreFoundation : 12
+Frameworks/CoreServices : 254
+Frameworks/CoreText : 18
+Frameworks/Foundation : 13
+Frameworks/GameKit : 405
+Frameworks/ICADevices : 7
+Frameworks/ImageCaptureCore : 7
+Frameworks/MediaPlayer : 2
+Frameworks/PDFKit : 9
+Frameworks/Quartz : 7686
+Frameworks/iTunesLibrary : 26
+PrivateFrameworks/AMPDevices : 22
+PrivateFrameworks/AMPLibrary : 30
+PrivateFrameworks/AccessibilityPlatformTranslation : 2
+PrivateFrameworks/AccessibilitySharedSupport : 2
+PrivateFrameworks/AddressBookAutocomplete : 9
+PrivateFrameworks/AppleAppSupport : 7686
+PrivateFrameworks/AudioServerApplication : 14
+PrivateFrameworks/AudioServerDriver : 14
+PrivateFrameworks/BridgeOSSoftwareUpdate : 2393
+PrivateFrameworks/CPAnalytics : 2
+PrivateFrameworks/CloudDocs : 14
+PrivateFrameworks/ContactsUICore : 8
+PrivateFrameworks/EmbeddedOSInstall : 1495
+PrivateFrameworks/GPUInfo : 6
+PrivateFrameworks/GameCenterFoundation : 405
+PrivateFrameworks/GameCenterUI : 405
+PrivateFrameworks/GameCenterUICore : 405
+PrivateFrameworks/IASUtilities : 346
+PrivateFrameworks/MobileAccessoryUpdater : 219
+PrivateFrameworks/OSInstaller : 78
+PrivateFrameworks/OSPersonalization : 1002
+PrivateFrameworks/OTSVG : 18
+PrivateFrameworks/PDFKit : 9
+CoreServices/AddressBookUrlForwarder : 2421.4.1
+CoreServices/ControlStrip : 210.20.1
+CoreServices/Setup Assistant : 2505
+Frameworks/GameKit : 428
+Frameworks/MediaPlayer : 2
+Frameworks/MobileCoreServices : 257
+Frameworks/PDFKit : 10
+PrivateFrameworks/MediaPlaybackCore : 2

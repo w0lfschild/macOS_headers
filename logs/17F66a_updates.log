@@ -1,0 +1,45 @@
+Applications/Google Chrome Canary : 3428.0
+Applications/HSTracker : 1919
+Applications/Safari : 13605.2.8
+Applications/mySIMBL : 71
+Applications/stts : 24
+Utilities/Bluetooth File Exchange : 6.0.6f2
+Utilities/Boot Camp Assistant : 6067.60.1
+Frameworks/AVFoundation : 1536.25
+Frameworks/CoreImage : 579.5
+Frameworks/CoreMedia : 2276.50
+Frameworks/IOBluetooth : 6.0.6f2
+Frameworks/IOBluetoothUI : 6.0.6f2
+Frameworks/JavaScriptCore : 13605.2.8
+Frameworks/MediaToolbox : 2276.50
+Frameworks/SafariServices : 13605.2.8
+Frameworks/Security : 58286.60.28
+Frameworks/VideoToolbox : 2276.50
+Frameworks/WebKit : 13605.2.8
+PrivateFrameworks/APTransport : 366.52.2
+PrivateFrameworks/AirPlayReceiver : 366.52.2
+PrivateFrameworks/AirPlaySender : 366.52.2
+PrivateFrameworks/AirPlaySupport : 366.52.2
+PrivateFrameworks/ContactsAssistantServices : 146.4.5.1
+PrivateFrameworks/CoreKE : 4.18
+PrivateFrameworks/MediaControlSender : 366.52.2
+PrivateFrameworks/RemoteServiceDiscovery : 1205.60.9
+PrivateFrameworks/RemoteXPC : 1205.60.9
+PrivateFrameworks/Safari : 13605.2.8
+PrivateFrameworks/SafariCore : 13605.2.8
+PrivateFrameworks/SafariSafeBrowsing : 13605.2.8
+PrivateFrameworks/SafariShared : 13605.2.8
+PrivateFrameworks/ScreenSharing : 498.31
+PrivateFrameworks/SiriFoundation : 146.4.5.1
+PrivateFrameworks/SiriUI : 146.4.5.1
+PrivateFrameworks/TimeSync : 680.15
+PrivateFrameworks/WebDriver : 13605.2.8
+PrivateFrameworks/WebInspector : 13606.2.8
+PrivateFrameworks/WebInspectorUI : 13605.2.8
+CoreServices/AirPlayUIAgent : 366.52.2
+CoreServices/Bluetooth Setup Assistant : 6.0.6f2
+CoreServices/BluetoothUIServer : 6.0.6f2
+CoreServices/Keychain Circle Notification : 58286.60.28
+CoreServices/OBEXAgent : 6.0.6f2
+CoreServices/Siri : 146.4.5.1
+Applications/Screen Sharing : 498.31

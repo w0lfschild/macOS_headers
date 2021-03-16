@@ -1,0 +1,36 @@
+Applications/GitHub Desktop : 1.5.0
+Applications/Google Chrome Canary : 3616.0
+Applications/Maps : 2132.22.10.1.11
+Applications/NTFS for Mac : 15.3.42
+Applications/News : 1706
+Applications/Photos : 3421.5.230
+Applications/Safari Technology Preview : 14607.1.13
+Utilities/Boot Camp Assistant : 6067.230.4
+Utilities/VoiceOver Utility : 562.84.5
+Frameworks/AppKit : 1671.20.107
+Frameworks/Photos : 3421.5.230
+Frameworks/PhotosUI : 3421.5.230
+PrivateFrameworks/AOSUI : 648.4.0.3
+PrivateFrameworks/CloudPhotoServices : 3421.5.230
+PrivateFrameworks/OSInstaller : 1152
+PrivateFrameworks/PhotoFoundation : 3421.5.230
+PrivateFrameworks/PhotoLibrary : 3421.5.230
+PrivateFrameworks/PhotoLibraryPrivate : 3421.5.230
+PrivateFrameworks/PhotosFormats : 3421.5.230
+PrivateFrameworks/PhotosImagingFoundation : 3421.5.230
+PrivateFrameworks/ScreenReader : 562.84.5
+PrivateFrameworks/ScreenReaderCore : 562.84.5
+PrivateFrameworks/UIKitHostAppProtocols : 38
+PrivateFrameworks/UIKitHostAppServices : 38
+PrivateFrameworks/UIKitSystemAppServices : 38
+CoreServices/UIKitSystem : 38
+CoreServices/VoiceOver : 562.84.5
+CoreServices/cloudphotosd : 3421.5.230
+PrivateFrameworks/NewsCore : 1706
+PrivateFrameworks/NewsFeedLayout : 1706
+PrivateFrameworks/NewsFoundation : 1706
+PrivateFrameworks/NewsServicesInternal : 1706
+PrivateFrameworks/NewsTransport : 1706
+PrivateFrameworks/NewsUI : 1706
+PrivateFrameworks/RemoteConfiguration : 1706
+PrivateFrameworks/Silex : 1706

@@ -1,0 +1,35 @@
+Applications/Battle.net : 1.10.0 (9701)
+Applications/GitHub Desktop : 1.0.11
+Applications/Google Chrome Canary : 3316.0
+Applications/Google Chrome : 3239.132
+Applications/Impactor : 1502663939
+Applications/PhotoScapeX : 275
+Applications/Safari Technology Preview : 13605.1.18.2
+Applications/Safari : 13604.5.3
+Frameworks/CoreFoundation : 1451
+Frameworks/CoreMedia : 2270.12.1
+Frameworks/Foundation : 1451
+Frameworks/JavaScriptCore : 13604.5.3
+Frameworks/LocalAuthentication : 425.41.1
+Frameworks/MediaToolbox : 2270.12.1
+Frameworks/SafariServices : 13604.5.3
+Frameworks/Security : 58286.41.1
+Frameworks/VideoToolbox : 2270.12.1
+Frameworks/WebKit : 13604.5.3
+PrivateFrameworks/APTransport : 356.14.2
+PrivateFrameworks/AirPlayReceiver : 356.14.2
+PrivateFrameworks/AirPlaySender : 356.14.2
+PrivateFrameworks/AirPlaySupport : 356.14.2
+PrivateFrameworks/CoreKE : 4.14.1
+PrivateFrameworks/LocalAuthenticationUI : 425.41.1
+PrivateFrameworks/MediaControlSender : 356.14.2
+PrivateFrameworks/RTCReporting : 9.32.36.1
+PrivateFrameworks/Safari : 13604.5.3
+PrivateFrameworks/SafariCore : 13604.5.3
+PrivateFrameworks/SafariSafeBrowsing : 13604.5.3
+PrivateFrameworks/SafariShared : 13604.5.3
+PrivateFrameworks/WebDriver : 13604.5.3
+PrivateFrameworks/WebInspector : 13604.5.3
+PrivateFrameworks/WebInspectorUI : 13604.5.3
+CoreServices/AirPlayUIAgent : 356.14.2
+CoreServices/Keychain Circle Notification : 58286.41.1

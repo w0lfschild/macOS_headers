@@ -1,0 +1,101 @@
+Applications/Battle.net : 1.12.4 (10594)
+Applications/GitHub Desktop : 1.4.2
+Applications/Google Chrome Canary : 3571.0
+Applications/Keka : 2867
+Applications/Maps : 2132.21.8.31.8
+Applications/Photos : 3411.5.190
+Applications/Safari : 14606.2.102
+Applications/Spotify : 1.0.89.313.g34a58dea-5
+Applications/Stocks : 152
+Applications/cDock : 5752
+Utilities/Bluetooth File Exchange : 6.0.9d8
+Utilities/Boot Camp Assistant : 6067.220.1
+Utilities/VoiceOver Utility : 562.84.1
+Frameworks/AVFoundation : 1542.10
+Frameworks/Contacts : 2900
+Frameworks/CoreDisplay : 104.4
+Frameworks/CoreGraphics : 1245.9.1
+Frameworks/CoreLocation : 2245.8.11
+Frameworks/CoreMedia : 2282.18
+Frameworks/CoreTelephony : 6521
+Frameworks/EventKit : 809.1.2
+Frameworks/IOBluetooth : 6.0.9d8
+Frameworks/IOBluetoothUI : 6.0.9d8
+Frameworks/JavaScriptCore : 14606.2.102
+Frameworks/LocalAuthentication : 425.220.23
+Frameworks/MapKit : 1832.21.8.31.3
+Frameworks/MediaToolbox : 2282.18
+Frameworks/Metal : 157.60
+Frameworks/OpenCL : 2.12.5
+Frameworks/Photos : 3411.5.190
+Frameworks/PhotosUI : 3411.5.190
+Frameworks/QuartzCore : 694.20
+Frameworks/SafariServices : 14606.2.102
+Frameworks/Security : 58286.220.12
+Frameworks/VideoToolbox : 2282.18
+Frameworks/WebKit : 14606.2.102
+PrivateFrameworks/AOSUI : 648.3.0.1
+PrivateFrameworks/APTransport : 373.8
+PrivateFrameworks/AVConference : 1431.34
+PrivateFrameworks/AirPlayReceiver : 373.8
+PrivateFrameworks/AirPlaySender : 373.8
+PrivateFrameworks/AirPlaySupport : 373.8
+PrivateFrameworks/AirTrafficHost : 4016.100.901
+PrivateFrameworks/Apple80211 : 1376.1
+PrivateFrameworks/CloudPhotoServices : 3411.5.190
+PrivateFrameworks/CoreHAP : 484.2.2
+PrivateFrameworks/CoreSymbolication : 64490.6
+PrivateFrameworks/CoreUtils : 574.17
+PrivateFrameworks/DTXConnectionServices : 64490.11
+PrivateFrameworks/EasyConfig : 574.17
+PrivateFrameworks/GPUWrangler : 3.25.6
+PrivateFrameworks/GameKitServices : 1431.34
+PrivateFrameworks/GeoServices : 1364.21.8.31.4
+PrivateFrameworks/HomeKit : 484.2.2
+PrivateFrameworks/HomeKitDaemon : 484.2.2
+PrivateFrameworks/LocalAuthenticationUI : 425.220.23
+PrivateFrameworks/MTLCompiler : 157.60
+PrivateFrameworks/MediaControlSender : 373.8
+PrivateFrameworks/MetadataUtilities : 1191.52
+PrivateFrameworks/MobileDevice : 988.200.77.100.1
+PrivateFrameworks/MultitouchSupport : 2410.3
+PrivateFrameworks/ParsecUI : 1191.52
+PrivateFrameworks/PhotoFoundation : 3411.5.190
+PrivateFrameworks/PhotoLibrary : 3411.5.190
+PrivateFrameworks/PhotoLibraryPrivate : 3411.5.190
+PrivateFrameworks/PhotosFormats : 3411.5.190
+PrivateFrameworks/PhotosImagingFoundation : 3411.5.190
+PrivateFrameworks/Rapport : 164.16
+PrivateFrameworks/RapportUI : 164.16
+PrivateFrameworks/Safari : 14606.2.102
+PrivateFrameworks/SafariCore : 14606.2.102
+PrivateFrameworks/SafariSafeBrowsing : 14606.2.102
+PrivateFrameworks/SafariShared : 14606.2.102
+PrivateFrameworks/ScreenReader : 562.84.1
+PrivateFrameworks/ScreenReaderCore : 562.84.1
+PrivateFrameworks/Sharing : 1214.2
+PrivateFrameworks/Spotlight : 1191.52
+PrivateFrameworks/SpotlightIndex : 1191.52
+PrivateFrameworks/SpotlightServerKit : 1191.52
+PrivateFrameworks/SpotlightServices : 1191.52
+PrivateFrameworks/Symbolication : 64490.5
+PrivateFrameworks/UIFoundation : 551
+PrivateFrameworks/WebDriver : 14606.2.102
+PrivateFrameworks/WebInspector : 14606.2.102
+PrivateFrameworks/WebInspectorUI : 14606.2.102
+PrivateFrameworks/XCTAutomationSupport : 14490.16
+PrivateFrameworks/XCTTargetBootstrap : 14490.16
+CoreServices/AirPlayUIAgent : 373.8
+CoreServices/Bluetooth Setup Assistant : 6.0.9d8
+CoreServices/BluetoothUIServer : 6.0.9d8
+CoreServices/Dock : 1963.1
+CoreServices/Keychain Circle Notification : 58286.220.12
+CoreServices/OBEXAgent : 6.0.9d8
+CoreServices/Paired Devices : 164.16
+CoreServices/RapportUIAgent : 164.16
+CoreServices/Spotlight : 1191.52
+CoreServices/VoiceOver : 562.84.1
+CoreServices/WiFiAgent : 1376.1
+CoreServices/cloudphotosd : 3411.5.190
+PrivateFrameworks/WebCore : 14606.2.102
+PrivateFrameworks/WebKitLegacy : 14606.2.102

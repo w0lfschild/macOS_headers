@@ -1,0 +1,450 @@
+Applications/App Store : 376.29
+Applications/Automator : 409.2
+Applications/Calendar : 2034.9
+Applications/Chess : 3.12
+Applications/Contacts : 1579
+Applications/DVD Player : 5500.56
+Applications/Dark Boot : 125
+Applications/Dashboard : 1.8
+Applications/Dictionary : 171.1
+Applications/FaceTime : 2300
+Applications/Font Book : 262.1
+Applications/Game Center : 1
+Applications/Google Chrome : 3282.140
+Applications/Image Capture : 525
+Applications/Mail : 2104
+Applications/Maps : 1844.0.15
+Applications/Messages : 4761
+Applications/Mission Control : 1.2
+Applications/Notes : 353
+Applications/Photo Booth : 726
+Applications/Photos : 215.65.0
+Applications/Preview : 859.21
+Applications/QuickTime Player : 833.7
+Applications/Reminders : 356.4
+Applications/Safari : 10603.1.30.0.34
+Applications/TextEdit : 319
+Applications/Time Machine : 1.3
+Applications/iBooks : 825
+Utilities/AirPort Utility : 635.2
+Utilities/Audio MIDI Setup : 3.0.6
+Utilities/Bluetooth File Exchange : 4.3.6f3
+Utilities/Boot Camp Assistant : 500
+Utilities/ColorSync Utility : 4.10.0
+Utilities/Console : 543
+Utilities/Digital Color Meter : 5.10
+Utilities/Disk Utility : 606
+Utilities/Feedback Assistant : 214
+Utilities/Grab : 117
+Utilities/Keychain Access : 55161
+Utilities/Migration Assistant : 705
+Utilities/Script Editor : 176
+Utilities/Terminal : 343.7
+Utilities/VoiceOver Utility : 390.104
+Utilities/X11 : 16
+Frameworks/AGL : AGL-3.3.0
+Frameworks/AVFoundation : 889.210
+Frameworks/AVKit : 214.19
+Frameworks/Accelerate : Accelerate 1.10
+Frameworks/AddressBook : 1579
+Frameworks/AppKit : 1348.17
+Frameworks/AppKitScripting : 31
+Frameworks/AppleScriptObjC : 28
+Frameworks/ApplicationServices : 48
+Frameworks/AudioToolbox : 1.12
+Frameworks/AudioUnit : 1.12
+Frameworks/AudioVideoBridging : 303.1
+Frameworks/Automator : 409.2
+Frameworks/CFNetwork : 720.5.7
+Frameworks/Carbon : 157
+Frameworks/CloudKit : 283.67.4
+Frameworks/Cocoa : 21
+Frameworks/Collaboration : 71
+Frameworks/CoreAuthentication : 67.20.1.14
+Frameworks/CoreData : 526.3
+Frameworks/CoreFoundation : 1153.18
+Frameworks/CoreLocation : 1615.24
+Frameworks/CoreMIDIServer : 88
+Frameworks/CoreMedia : 1562.240
+Frameworks/CoreMediaIO : 4760
+Frameworks/CoreServices : 62
+Frameworks/CoreVideo : 145.1
+Frameworks/CoreWLAN : 500.35.2
+Frameworks/DVComponentGlue : 2.0.7
+Frameworks/DVDPlayback : 5900.4.6
+Frameworks/DirectoryService : 187
+Frameworks/DiscRecording : 9000.4.2
+Frameworks/DiscRecordingUI : 9000.4.2
+Frameworks/DiskArbitration : 2.6
+Frameworks/DrawSprocket : DrawSprocket-2.0.88
+Frameworks/EventKit : 339.5
+Frameworks/ExceptionHandling : 10
+Frameworks/FWAUserLib : 270.6
+Frameworks/FinderSync : 932.6.3
+Frameworks/ForceFeedback : 1.0.6
+Frameworks/Foundation : 1154
+Frameworks/GLKit : 27
+Frameworks/GLUT : GLUT-3.6.2
+Frameworks/GSS : 2.0
+Frameworks/GameKit : 191.22
+Frameworks/Hypervisor : 1
+Frameworks/ICADevices : 10.2
+Frameworks/IOBluetooth : 4.3.6f3
+Frameworks/IOBluetoothUI : 4.3.6f3
+Frameworks/IOKit : 
+Frameworks/IOSurface : 97.4
+Frameworks/ImageCaptureCore : 6.3
+Frameworks/ImageIO : 1241
+Frameworks/InstallerPlugins : 815
+Frameworks/InstantMessage : 4701
+Frameworks/JavaFrameEmbedding : 15.0.0
+Frameworks/JavaScriptCore : 10600.8.7
+Frameworks/JavaVM : 14.9.9
+Frameworks/Kerberos : 1
+Frameworks/Kernel : 14.5.0
+Frameworks/LDAP : 194.5
+Frameworks/LatentSemanticMapping : 2.11.6
+Frameworks/LocalAuthentication : 67.20.1.14
+Frameworks/MapKit : 1549.0.14
+Frameworks/MediaAccessibility : 61
+Frameworks/MediaLibrary : 701
+Frameworks/MediaToolbox : 1562.240
+Frameworks/Message : 1602
+Frameworks/MultipeerConnectivity : 76
+Frameworks/NotificationCenter : 393.13
+Frameworks/OSAKit : 102
+Frameworks/OpenAL : 1.8
+Frameworks/OpenCL : 2.4.2
+Frameworks/OpenDirectory : 187
+Frameworks/OpenGL : 11.1.6
+Frameworks/PCSC : 1
+Frameworks/PubSub : 65.39
+Frameworks/Python : 2.7.10
+Frameworks/QTKit : 2890.9
+Frameworks/Quartz : 1.5
+Frameworks/QuartzCore : 361.19
+Frameworks/QuickLook : 675.43
+Frameworks/QuickTime : 2890.9
+Frameworks/Ruby : 2.0.0-p481-106
+Frameworks/SceneKit : 260.13
+Frameworks/Scripting : 37
+Frameworks/ScriptingBridge : 66
+Frameworks/Security : 57031.40.8
+Frameworks/SecurityFoundation : 55126
+Frameworks/SecurityInterface : 55058
+Frameworks/ServiceManagement : 1
+Frameworks/Social : 87
+Frameworks/StoreKit : 376.29
+Frameworks/SyncServices : 722
+Frameworks/System : 
+Frameworks/SystemConfiguration : 1.14
+Frameworks/Tcl : 8.5.9
+Frameworks/VideoDecodeAcceleration : 8
+Frameworks/VideoToolbox : 1562.240
+Frameworks/WebKit : 10600.8.9
+Frameworks/vmnet : 1
+PrivateFrameworks/ACDEClient : 26
+PrivateFrameworks/AOSAccounts : 1.8.42
+PrivateFrameworks/AOSAccountsLite : 1.8.42
+PrivateFrameworks/AOSKit : 217
+PrivateFrameworks/AOSMigrate : 1
+PrivateFrameworks/AOSUI : 360.95
+PrivateFrameworks/AVConference : 734.114
+PrivateFrameworks/AVCore : 900
+PrivateFrameworks/AVFoundationCF : 175.13
+PrivateFrameworks/AccessibilityBundles : 11
+PrivateFrameworks/AirPlaySupport : 215.18
+PrivateFrameworks/AnnotationKit : 51.31
+PrivateFrameworks/AppContainer : 238.20.2
+PrivateFrameworks/AppSandbox : 238.20.2
+PrivateFrameworks/Apple80211 : 1030.71.6
+PrivateFrameworks/AppleAppSupport : 1.5
+PrivateFrameworks/AppleFSCompression : 1.0
+PrivateFrameworks/AppleGVA : 8.4.5
+PrivateFrameworks/AppleGVACore : 8.4.5
+PrivateFrameworks/AppleJPEG : 1
+PrivateFrameworks/AppleLDAP : 20
+PrivateFrameworks/AppleProfileFamily : 119
+PrivateFrameworks/AppleSRP : 1
+PrivateFrameworks/AppleScript : 368.1
+PrivateFrameworks/AppleShareClientCore : 3.0
+PrivateFrameworks/AppleSystemInfo : 3.1.5
+PrivateFrameworks/AppleVA : 5.0.31
+PrivateFrameworks/AppleVPA : 1.4.5
+PrivateFrameworks/AssistantServices : 139
+PrivateFrameworks/AssistiveControlSupport : 87.61
+PrivateFrameworks/Backup : 1.6.5
+PrivateFrameworks/BezelServices : 250.15
+PrivateFrameworks/Bom : 193.6
+PrivateFrameworks/BookKit : 704
+PrivateFrameworks/BookmarkDAV : 108
+PrivateFrameworks/BrowserKit : 962
+PrivateFrameworks/ByteRangeLocking : 1.3.0
+PrivateFrameworks/CalDAV : 198.1
+PrivateFrameworks/CalendarAgent : 316.1
+PrivateFrameworks/CalendarFoundation : 295.1
+PrivateFrameworks/CalendarPersistence : 321.8
+PrivateFrameworks/CalendarUI : 306.9
+PrivateFrameworks/CalendarUIKit : 66
+PrivateFrameworks/CallHistory : 2
+PrivateFrameworks/ChunkingLibrary : 163.6
+PrivateFrameworks/CloudDocs : 321.10
+PrivateFrameworks/CloudDocsDaemon : 321.10
+PrivateFrameworks/CloudKitDaemon : 283.67.4
+PrivateFrameworks/CloudPhotoLibrary : 196.1
+PrivateFrameworks/CloudPhotoServices : 215.65.0
+PrivateFrameworks/CloudServices : 1
+PrivateFrameworks/CommerceKit : 376.29
+PrivateFrameworks/CommonAuth : 2.0
+PrivateFrameworks/ConfigProfileHelper : 753
+PrivateFrameworks/ConfigurationProfiles : 753
+PrivateFrameworks/Contacts : 1579
+PrivateFrameworks/ContactsAssistantServices : 1
+PrivateFrameworks/ContactsAutocomplete : 1579
+PrivateFrameworks/ContactsData : 1579
+PrivateFrameworks/ContactsFoundation : 1579
+PrivateFrameworks/ContactsUI : 1579
+PrivateFrameworks/CoreADI : 3.40.0
+PrivateFrameworks/CoreAUC : 211.1.0
+PrivateFrameworks/CoreAVCHD : 5750.4.1
+PrivateFrameworks/CoreChineseEngine : 274.5
+PrivateFrameworks/CoreDAV : 261.2
+PrivateFrameworks/CoreDaemon : 1.3
+PrivateFrameworks/CoreDuetAdmissionControlLog : 1
+PrivateFrameworks/CoreDuetDataParity : 1
+PrivateFrameworks/CoreFP : 2.12.8
+PrivateFrameworks/CoreKE : 2.4.0
+PrivateFrameworks/CoreLSKD : 5.23.11
+PrivateFrameworks/CoreLSKDMSE : 2.14.5
+PrivateFrameworks/CoreMediaAuthoring : 951
+PrivateFrameworks/CoreMediaIOServicesPrivate : 3332
+PrivateFrameworks/CoreMediaPrivate : 20.0
+PrivateFrameworks/CoreMediaStream : 496.1
+PrivateFrameworks/CoreProfile : 14006
+PrivateFrameworks/CoreRAID : 304
+PrivateFrameworks/CoreRecognition : 41
+PrivateFrameworks/CoreServicesInternal : 221.7.2
+PrivateFrameworks/CoreSpectrum : 19
+PrivateFrameworks/CoreSymbolication : 57020.2
+PrivateFrameworks/CoreThemeDefinition : 184.1
+PrivateFrameworks/CoreUI : 308.6
+PrivateFrameworks/CoreUtils : 110.1
+PrivateFrameworks/CoreWLANKit : 430.38.1
+PrivateFrameworks/CoreWiFi : 300.4
+PrivateFrameworks/CrashReporterSupport : 631
+PrivateFrameworks/DCERPC : 61
+PrivateFrameworks/DMNotification : 150
+PrivateFrameworks/DVD : 4.1.2
+PrivateFrameworks/DataDetectors : 286.13
+PrivateFrameworks/DataDetectorsCore : 396.1.2
+PrivateFrameworks/DebugSymbols : 115
+PrivateFrameworks/DesktopServicesPriv : 1.9.3
+PrivateFrameworks/DeviceLink : 264
+PrivateFrameworks/DeviceToDeviceManager : 29
+PrivateFrameworks/DirectoryEditor : 34
+PrivateFrameworks/DirectoryServer : 59
+PrivateFrameworks/DiskImages : 398
+PrivateFrameworks/DiskManagement : 847.8
+PrivateFrameworks/DisplayServices : 372.1
+PrivateFrameworks/EAP8021X : 14.0
+PrivateFrameworks/EasyConfig : 110.1
+PrivateFrameworks/EmailAddressing : 2104
+PrivateFrameworks/ExchangeWebServices : 213
+PrivateFrameworks/FWAVC : 47
+PrivateFrameworks/FWAVCPrivate : 47
+PrivateFrameworks/FaceCore : 3.1.6
+PrivateFrameworks/FileProvider : 30
+PrivateFrameworks/FileSync : 608
+PrivateFrameworks/FindMyMac : 3.1
+PrivateFrameworks/FinderKit : 1.3.5
+PrivateFrameworks/GameCenterFoundation : 193.16
+PrivateFrameworks/GameCenterPrivateUIMac : 1
+PrivateFrameworks/GameCenterUI : 191.22
+PrivateFrameworks/GameKitServices : 734.114
+PrivateFrameworks/GenerationalStorage : 209.11
+PrivateFrameworks/GeoServices : 1077.0.18
+PrivateFrameworks/GraphicsAppSupport : 4
+PrivateFrameworks/HDAInterface : 272.18.3
+PrivateFrameworks/HeimODAdmin : 2.0
+PrivateFrameworks/HelpData : 90
+PrivateFrameworks/IASUtilities : 119
+PrivateFrameworks/ICANotifications : 10.2
+PrivateFrameworks/IMAP : 2104
+PrivateFrameworks/IOAccelerator : 156.16
+PrivateFrameworks/IOPlatformPluginFamily : 1
+PrivateFrameworks/ISSupport : 57
+PrivateFrameworks/IconServices : 47.1
+PrivateFrameworks/Install : 924.1
+PrivateFrameworks/IntlPreferences : 150.1
+PrivateFrameworks/JavaApplicationLauncher : 15.0.0
+PrivateFrameworks/JavaLaunching : 15.0.0
+PrivateFrameworks/KerberosHelper : 1.0
+PrivateFrameworks/LanguageModeling : 1
+PrivateFrameworks/LoginUIKit : 3.2
+PrivateFrameworks/Lookup : 160
+PrivateFrameworks/MDSChannel : 1.3
+PrivateFrameworks/MMCS : 327.5
+PrivateFrameworks/Mail : 2104
+PrivateFrameworks/MailCore : 2104
+PrivateFrameworks/MailService : 2104
+PrivateFrameworks/MailUI : 2104
+PrivateFrameworks/ManagedClient : 753
+PrivateFrameworks/Mangrove : 1
+PrivateFrameworks/MediaControlSender : 215.18
+PrivateFrameworks/MediaKit : 757.2
+PrivateFrameworks/MediaUI : 27
+PrivateFrameworks/MessageProtection : 1
+PrivateFrameworks/MessagesHelperKit : 1
+PrivateFrameworks/MessagesKit : 1
+PrivateFrameworks/MonitorPanel : 4.0
+PrivateFrameworks/MultitouchSupport : 264.6
+PrivateFrameworks/NetAuth : 5.2
+PrivateFrameworks/Netrb : 1
+PrivateFrameworks/NetworkDiagnosticsUI : 115
+PrivateFrameworks/Notes : 353
+PrivateFrameworks/NyxAudioAnalysis : 12.5
+PrivateFrameworks/OSInstaller : 660
+PrivateFrameworks/OfficeImport : 224.7
+PrivateFrameworks/OpenDirectoryConfigUI : 65
+PrivateFrameworks/PSNormalizer : 13
+PrivateFrameworks/PackageKit : 438
+PrivateFrameworks/PacketFilter : 1
+PrivateFrameworks/Parsec : 917.36
+PrivateFrameworks/ParsecUI : 917.36
+PrivateFrameworks/PassKit : 50
+PrivateFrameworks/PasswordServer : 44
+PrivateFrameworks/PerformanceAnalysis : 1
+PrivateFrameworks/PhotoLibrary : 215.65.0
+PrivateFrameworks/PhotoLibraryPrivate : 215.65.0
+PrivateFrameworks/PlatformHardwareManagement : 3.0.0
+PrivateFrameworks/PodcastProducerCore : 250
+PrivateFrameworks/PodcastProducerKit : 250
+PrivateFrameworks/PrintingPrivate : 148
+PrivateFrameworks/ProKit : 1963
+PrivateFrameworks/ProofReader : 282
+PrivateFrameworks/ProtocolBuffer : 228.0.1
+PrivateFrameworks/RTCReporting : 6.100
+PrivateFrameworks/RemotePacketCapture : 1
+PrivateFrameworks/RemoteViewServices : 99
+PrivateFrameworks/Restore : 325
+PrivateFrameworks/SMBClient : 3.0.0
+PrivateFrameworks/Safari : 10600.8.9
+PrivateFrameworks/SafariCore : 10603.1.30.0.34
+PrivateFrameworks/SafariServices : 10603.1.30.0.34
+PrivateFrameworks/SafariShared : 10603.1.30.0.34
+PrivateFrameworks/ScreenReader : 390.104
+PrivateFrameworks/ScreenSharing : 2.3.1
+PrivateFrameworks/SecCodeWrapper : 238.20.2
+PrivateFrameworks/SecureNetworking : 1
+PrivateFrameworks/SecurityTokend : 55108
+PrivateFrameworks/SemanticDocumentManagement : 1.4.1
+PrivateFrameworks/ServerFoundation : 215.4
+PrivateFrameworks/ShareKit : 329
+PrivateFrameworks/Sharing : 328.17
+PrivateFrameworks/Shortcut : 2.14
+PrivateFrameworks/Slideshows : 1555
+PrivateFrameworks/SocialAppsCore : 4740
+PrivateFrameworks/SocialUI : 4758
+PrivateFrameworks/SoftwareUpdate : 744.13
+PrivateFrameworks/SpeechDictionary : 5.2.3
+PrivateFrameworks/SpeechObjects : 5.1.1
+PrivateFrameworks/SpeechRecognitionCore : 2.1.2
+PrivateFrameworks/SpotlightIndex : 917.36
+PrivateFrameworks/StorageKit : 54
+PrivateFrameworks/StoreFoundation : 1
+PrivateFrameworks/StoreJavaScript : 1
+PrivateFrameworks/StoreUI : 1
+PrivateFrameworks/StoreXPCServices : 1
+PrivateFrameworks/Suggestions : 165
+PrivateFrameworks/Symbolication : 56045
+PrivateFrameworks/Symptoms : 1
+PrivateFrameworks/SyncServicesUI : 722
+PrivateFrameworks/SyncedDefaults : 212.3
+PrivateFrameworks/SystemMigration : 874
+PrivateFrameworks/SystemUIPlugin : 33
+PrivateFrameworks/TCC : 1
+PrivateFrameworks/TrustEvaluationAgent : 25
+PrivateFrameworks/UIFoundation : 1
+PrivateFrameworks/UIRecording : 27
+PrivateFrameworks/Ubiquity : 313
+PrivateFrameworks/UniversalAccess : 236.64
+PrivateFrameworks/VCXMPP : 29
+PrivateFrameworks/VectorKit : 1087.0.16
+PrivateFrameworks/VideoConference : 473
+PrivateFrameworks/ViewBridge : 105.1
+PrivateFrameworks/WeatherKit : 147
+PrivateFrameworks/WebFilterDNS : 5
+PrivateFrameworks/WebInspector : 10600.8.3
+PrivateFrameworks/WebInspectorUI : 10600.8.3
+PrivateFrameworks/WebKit2 : 10600.8.9
+PrivateFrameworks/WirelessDiagnostics : 712.10
+PrivateFrameworks/WirelessDiagnosticsSupport : 420.71
+PrivateFrameworks/acfs : 1
+PrivateFrameworks/iCalendar : 201
+PrivateFrameworks/iLifeMediaBrowser : 701
+PrivateFrameworks/iPod : 20
+PrivateFrameworks/kperf : 1
+PrivateFrameworks/kperfdata : 1
+PrivateFrameworks/login : 3.0
+PrivateFrameworks/nt : 1
+PrivateFrameworks/oncrpc : 33
+PrivateFrameworks/vCard : 1579
+PrivateFrameworks/vmutils : 108
+CoreServices/AddPrinter : 482.2
+CoreServices/AddressBookUrlForwarder : 1579
+CoreServices/AirPlayUIAgent : 215.18
+CoreServices/AirPort Base Station Agent : 221.1
+CoreServices/AppDownloadLauncher : 1
+CoreServices/AppleFileServer : 1.0
+CoreServices/AppleScript Utility : 35
+CoreServices/Automator Runner : 409.2
+CoreServices/Bluetooth Setup Assistant : 4.3.6f3
+CoreServices/BluetoothUIServer : 4.3.6f3
+CoreServices/Captive Network Assistant : 3.1
+CoreServices/Certificate Assistant : 55128
+CoreServices/CoreServicesUIAgent : 134.7
+CoreServices/DiskImageMounter : 398
+CoreServices/Dock : 1476.30
+CoreServices/File Sync : 608
+CoreServices/FileSyncAgent : 608
+CoreServices/Finder : 10.10.5
+CoreServices/Folder Actions Dispatcher : 1.0.4
+CoreServices/Folder Actions Setup : 1.1.6
+CoreServices/HelpViewer : 256
+CoreServices/Install in Progress : 438
+CoreServices/Installer : 815
+CoreServices/Jar Launcher : 15.0.0
+CoreServices/Java Web Start : 15.0.0
+CoreServices/Language Chooser : 424
+CoreServices/ManagedClient : 753
+CoreServices/NetAuthAgent : 5.2
+CoreServices/Network Diagnostics : 115
+CoreServices/Network Setup Assistant : 105
+CoreServices/NotificationCenter : 393.13
+CoreServices/OBEXAgent : 4.3.6f3
+CoreServices/ODSAgent : 180.4
+CoreServices/Photo Library Migration Utility : 903.0
+CoreServices/Problem Reporter : 631
+CoreServices/ScriptMonitor : 5.1
+CoreServices/Setup Assistant : 1576
+CoreServices/ShareBear : 1
+CoreServices/SocialPushAgent : 25
+CoreServices/Software Update : 744.13
+CoreServices/Spotlight : 917.36
+CoreServices/SystemUIServer : 410.2
+CoreServices/Ticket Viewer : 34
+CoreServices/UniversalAccessControl : 236.64
+CoreServices/UserNotificationCenter : 31
+CoreServices/VoiceOver : 390.104
+CoreServices/WiFiAgent : 1
+CoreServices/ZoomWindow : 67
+CoreServices/cloudphotosd : 215.65.0
+CoreServices/loginwindow : 10.4
+CoreServices/rcd : 327.5
+Applications/Directory Utility : 385
+Applications/Feedback Assistant : 214
+Applications/Network Utility : 102
+Applications/RAID Utility : 403
+Applications/Screen Sharing : 491.13
+Applications/System Image Utility : 731
+Applications/Wireless Diagnostics : 420.71

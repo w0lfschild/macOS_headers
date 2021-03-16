@@ -1,0 +1,96 @@
+Applications/App Store : 652
+Applications/Automator : 444.1
+Applications/BlueStacks : 423902
+Applications/GitHub Desktop : 0.8.0
+Applications/Google Chrome : 3112.101
+Applications/HSTracker : 1758
+Applications/IINA : 37
+Applications/Photos : 3201.11.120
+Applications/Plex Media Server : 1.7.5.4035
+Applications/Preview : 944.1
+Applications/Safari : 13604.1.38.1.6
+Applications/Skype : 7.58.0.501
+Utilities/Bluetooth File Exchange : 6.0.0f6
+Utilities/Boot Camp Assistant : 6067.1.3
+Utilities/VoiceOver Utility : 562.1
+Frameworks/AppKit : 1559
+Frameworks/Automator : 444.1
+Frameworks/CloudKit : 720
+Frameworks/CoreData : 847.1
+Frameworks/CoreDisplay : 79.4
+Frameworks/CoreFoundation : 1443.12
+Frameworks/CoreMedia : 2074.3
+Frameworks/FinderSync : 1054.0.2
+Frameworks/Foundation : 1443.14
+Frameworks/IOBluetooth : 6.0.0f6
+Frameworks/IOBluetoothUI : 6.0.0f6
+Frameworks/JavaScriptCore : 13604.1.38.1.6
+Frameworks/MediaToolbox : 2074.3
+Frameworks/NotificationCenter : 639
+Frameworks/Photos : 3201.11.120
+Frameworks/PhotosUI : 3201.11.120
+Frameworks/QuartzCore : 574.1.4
+Frameworks/QuickLook : 743.3
+Frameworks/SafariServices : 13604.1.38.1.6
+Frameworks/StoreKit : 652
+Frameworks/VideoToolbox : 2074.3
+Frameworks/WebKit : 13604.1.38.1.6
+PrivateFrameworks/CloudDocs : 559
+PrivateFrameworks/CloudDocsDaemon : 559
+PrivateFrameworks/CloudKitDaemon : 720
+PrivateFrameworks/CloudPhotoServices : 3201.11.120
+PrivateFrameworks/CommerceKit : 652
+PrivateFrameworks/CoreADI : 4.12.0
+PrivateFrameworks/CoreNLP : 127
+PrivateFrameworks/CoreRecognition : 111
+PrivateFrameworks/CoreUtils : 520.68
+PrivateFrameworks/DFRFoundation : 189.1
+PrivateFrameworks/DiskManagement : 1305
+PrivateFrameworks/EasyConfig : 520.68
+PrivateFrameworks/FileProvider : 111.1
+PrivateFrameworks/FindMyMac : 55.9
+PrivateFrameworks/IconServices : 97.2
+PrivateFrameworks/MobileAsset : 437.1.11
+PrivateFrameworks/NeutrinoCore : 3201.7.140
+PrivateFrameworks/NeutrinoKit : 3201.7.140
+PrivateFrameworks/OSInstaller : 923
+PrivateFrameworks/PackageKit : 725
+PrivateFrameworks/ParsecUI : 1190
+PrivateFrameworks/PhotoImaging : 3201.7.140
+PrivateFrameworks/PhotoLibrary : 3201.11.120
+PrivateFrameworks/PhotoLibraryPrivate : 3201.11.120
+PrivateFrameworks/Safari : 13604.1.38.1.6
+PrivateFrameworks/SafariCore : 13604.1.38.1.6
+PrivateFrameworks/SafariSafeBrowsing : 13604.1.38.1.6
+PrivateFrameworks/SafariShared : 13604.1.38.1.6
+PrivateFrameworks/ScreenReader : 562.1
+PrivateFrameworks/Sharing : 910.7
+PrivateFrameworks/SoftwareUpdate : 1068.7
+PrivateFrameworks/Spotlight : 1190
+PrivateFrameworks/SpotlightIndex : 1190
+PrivateFrameworks/SpotlightServerKit : 1190
+PrivateFrameworks/SpotlightServices : 1190
+PrivateFrameworks/StoreFoundation : 652
+PrivateFrameworks/StoreJavaScript : 652
+PrivateFrameworks/StoreUI : 652
+PrivateFrameworks/StoreXPCServices : 652
+PrivateFrameworks/UniversalAccess : 360.1
+PrivateFrameworks/ViewBridge : 341.1
+PrivateFrameworks/WebDriver : 13604.1.38.1.6
+PrivateFrameworks/WebInspector : 13604.1.38.1.6
+PrivateFrameworks/WebInspectorUI : 13604.1.38.1.6
+CoreServices/Automator Runner : 444.1
+CoreServices/Bluetooth Setup Assistant : 6.0.0f6
+CoreServices/BluetoothUIServer : 6.0.0f6
+CoreServices/Dock : 1849
+CoreServices/Install in Progress : 725
+CoreServices/NotificationCenter : 639
+CoreServices/OBEXAgent : 6.0.0f6
+CoreServices/Setup Assistant : 1971
+CoreServices/Software Update : 1068.7
+CoreServices/Spotlight : 1190
+CoreServices/UniversalAccessControl : 360.1
+CoreServices/VoiceOver : 562.1
+CoreServices/cloudphotosd : 3201.11.120
+CoreServices/loginwindow : 1790.2
+Applications/System Image Utility : 819

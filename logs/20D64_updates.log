@@ -1,0 +1,32 @@
+Applications/AltTab : 6.14.0
+Applications/Default Folder X : 4279
+Applications/Developer : 841.2.2
+Applications/Epic Games Launcher : 12.0.3
+Applications/Gifski : 45
+Frameworks/GameController : 23
+Frameworks/GameKit : 261
+Frameworks/IOUSBHost : 15
+Frameworks/PassKit : 7
+Frameworks/USBDriverKit : 15
+PrivateFrameworks/AppStoreKit : 79
+PrivateFrameworks/AppleHIDTransportSupport : 2478
+PrivateFrameworks/AppleNVMe : 741
+PrivateFrameworks/CSCSupport : 55
+PrivateFrameworks/CoreBrightness : 252
+PrivateFrameworks/DFRBrightness : 252
+PrivateFrameworks/GameCenterFoundation : 261
+PrivateFrameworks/GameCenterUI : 261
+PrivateFrameworks/GameCenterUICore : 261
+PrivateFrameworks/IOPlatformPluginFamily : 1845
+PrivateFrameworks/MobileDevice : 682
+PrivateFrameworks/MobileSoftwareUpdate : 103
+PrivateFrameworks/OSUpdate : 22
+PrivateFrameworks/PassKit : 7
+PrivateFrameworks/PassKitCore : 7
+PrivateFrameworks/PassKitMacHelper : 7
+PrivateFrameworks/SetupAssistantFramework : 377
+PrivateFrameworks/SoftwareUpdate : 22
+PrivateFrameworks/SoftwareUpdateCore : 103
+PrivateFrameworks/SoftwareUpdateCoreConnect : 103
+PrivateFrameworks/SoftwareUpdateCoreSupport : 103
+Frameworks/GameKit : 264

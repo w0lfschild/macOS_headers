@@ -1,0 +1,36 @@
+Applications/Battle.net : 1.8.6 (9262)
+Applications/Genymotion : 
+Applications/Google Chrome : 3112.113
+Applications/Mail : 3445.1.5
+Applications/Safari Technology Preview : 13605.1.3.1
+Applications/Shifty : 22
+Applications/VirtualBox : 5.0.10
+Utilities/Bluetooth File Exchange : 6.0.0f7
+Frameworks/AppKit : 1561
+Frameworks/CoreDisplay : 79.6
+Frameworks/CoreFoundation : 1443.13
+Frameworks/IOBluetooth : 6.0.0f7
+Frameworks/IOBluetoothUI : 6.0.0f7
+Frameworks/OpenGL : 16.0.3
+PrivateFrameworks/CloudPhotoLibrary : 3201.7.220
+PrivateFrameworks/CoreNLP : 129
+PrivateFrameworks/Email : 3445.1.5
+PrivateFrameworks/EmailAddressing : 3445.1.5
+PrivateFrameworks/EmailCore : 3445.1.5
+PrivateFrameworks/GPUSupport : 16.0.3
+PrivateFrameworks/HDRProcessing : 1.0.70
+PrivateFrameworks/IMAP : 3445.1.5
+PrivateFrameworks/IconServices : 97.3
+PrivateFrameworks/Mail : 3445.1.5
+PrivateFrameworks/MailCore : 3445.1.5
+PrivateFrameworks/MailService : 3445.1.5
+PrivateFrameworks/MailSupport : 3445.1.5
+PrivateFrameworks/MailUI : 3445.1.5
+PrivateFrameworks/OSInstaller : 927
+PrivateFrameworks/StorageKit : 388
+PrivateFrameworks/SystemMigration : 1146.1
+CoreServices/Bluetooth Setup Assistant : 6.0.0f7
+CoreServices/BluetoothUIServer : 6.0.0f7
+CoreServices/OBEXAgent : 6.0.0f7
+CoreServices/loginwindow : 1790.3
+Applications/System Image Utility : 820

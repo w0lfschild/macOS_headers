@@ -1,0 +1,103 @@
+Applications/App Store : 657
+Applications/Battle.net : 1.11.2 (10017)
+Applications/Google Chrome Canary : 3403.0
+Applications/Google Chrome : 3359.117
+Applications/Maps : 2131.25.4.7.1
+Applications/Safari Technology Preview : 13606.1.13.2
+Applications/Safari : 13605.2.3
+Applications/iBooks : 1459.14
+Applications/iMovie : 320079
+Applications/stts : 21
+Utilities/AirPort Utility : 638.9
+Utilities/Bluetooth File Exchange : 6.0.6f1
+Frameworks/AVFoundation : 1536.19
+Frameworks/AudioVideoBridging : 680.2
+Frameworks/CFNetwork : 901.1
+Frameworks/CoreDisplay : 97.21
+Frameworks/CoreGraphics : 1161.21
+Frameworks/CoreMedia : 2276.32
+Frameworks/CoreTelephony : 5793
+Frameworks/IOBluetooth : 6.0.6f1
+Frameworks/IOBluetoothUI : 6.0.6f1
+Frameworks/ImageIO : 1739.3
+Frameworks/JavaScriptCore : 13605.2.3
+Frameworks/Kernel : 17.6.0
+Frameworks/LocalAuthentication : 425.60.2
+Frameworks/MapKit : 1831.25.4.7.1
+Frameworks/MediaToolbox : 2276.32
+Frameworks/SafariServices : 13605.2.3
+Frameworks/Security : 58286.60.21
+Frameworks/StoreKit : 657
+Frameworks/VideoToolbox : 2276.32
+Frameworks/WebKit : 13605.2.3
+PrivateFrameworks/APTransport : 366.32
+PrivateFrameworks/AVFoundationCF : 274.60
+PrivateFrameworks/AirPlayReceiver : 366.32
+PrivateFrameworks/AirPlaySender : 366.32
+PrivateFrameworks/AirPlaySupport : 366.32
+PrivateFrameworks/CloudServices : 297.60.1
+PrivateFrameworks/CommerceKit : 657
+PrivateFrameworks/ConfigProfileHelper : 1090
+PrivateFrameworks/ConfigurationProfiles : 1090
+PrivateFrameworks/CoreSuggestions : 680.18.10
+PrivateFrameworks/CoreSuggestionsInternals : 680.18.10
+PrivateFrameworks/CoreUtils : 560.9
+PrivateFrameworks/DFRDisplay : 112.60.1
+PrivateFrameworks/DeviceManagement : 10.48
+PrivateFrameworks/DiskImages : 480.60.1
+PrivateFrameworks/EasyConfig : 560.9
+PrivateFrameworks/GPUWrangler : 3.18.51
+PrivateFrameworks/HelpData : 167.1
+PrivateFrameworks/LinkPresentation : 59.16.3
+PrivateFrameworks/LocalAuthenticationUI : 425.60.2
+PrivateFrameworks/ManagedClient : 1090
+PrivateFrameworks/MediaControlSender : 366.32
+PrivateFrameworks/MobileAsset : 437.60.1
+PrivateFrameworks/NearField : 284.20.2
+PrivateFrameworks/OSInstaller : 1005
+PrivateFrameworks/OfficeImport : 257.3
+PrivateFrameworks/PackageKit : 733
+PrivateFrameworks/RTCReporting : 9.32.65
+PrivateFrameworks/Rapport : 150.9
+PrivateFrameworks/RapportUI : 150.9
+PrivateFrameworks/RemoteServiceDiscovery : 1205.60.8
+PrivateFrameworks/RemoteXPC : 1205.60.8
+PrivateFrameworks/Safari : 13605.2.3
+PrivateFrameworks/SafariCore : 13605.2.3
+PrivateFrameworks/SafariSafeBrowsing : 13605.2.3
+PrivateFrameworks/SafariShared : 13605.2.3
+PrivateFrameworks/ScreenSharing : 498.30
+PrivateFrameworks/SharedWebCredentials : 180.2
+PrivateFrameworks/Sharing : 1050.21
+PrivateFrameworks/SignpostCollection : 2.5
+PrivateFrameworks/SignpostNotification : 2.5
+PrivateFrameworks/SignpostSupport : 2.5
+PrivateFrameworks/SpeechRecognitionCore : 4.6.1
+PrivateFrameworks/StoreFoundation : 657
+PrivateFrameworks/StoreJavaScript : 657
+PrivateFrameworks/StoreUI : 657
+PrivateFrameworks/StoreXPCServices : 657
+PrivateFrameworks/SymptomDiagnosticManagement : 820.60.2
+PrivateFrameworks/SymptomDiagnosticReporter : 820.60.2
+PrivateFrameworks/SymptomReporter : 820.60.2
+PrivateFrameworks/Symptoms : 820.60.2
+PrivateFrameworks/TimeSync : 680.10
+PrivateFrameworks/UniversalAccess : 361.13.7
+PrivateFrameworks/VideoSubscriberAccount : 260.1
+PrivateFrameworks/VisualPairing : 120.1
+PrivateFrameworks/WebDriver : 13605.2.3
+PrivateFrameworks/WebInspector : 13605.2.3
+PrivateFrameworks/WebInspectorUI : 13605.2.3
+CoreServices/AirPlayUIAgent : 366.32
+CoreServices/Bluetooth Setup Assistant : 6.0.6f1
+CoreServices/BluetoothUIServer : 6.0.6f1
+CoreServices/DiskImageMounter : 480.60.1
+CoreServices/Install in Progress : 733
+CoreServices/Keychain Circle Notification : 58286.60.21
+CoreServices/ManagedClient : 1090
+CoreServices/OBEXAgent : 6.0.6f1
+CoreServices/Paired Devices : 150.9
+CoreServices/RapportUIAgent : 150.9
+CoreServices/Setup Assistant : 2006.1
+CoreServices/UniversalAccessControl : 361.13.7
+Applications/Screen Sharing : 498.30

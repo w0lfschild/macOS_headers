@@ -1,0 +1,64 @@
+Applications/Battle.net : 1.12.0 (10060)
+Applications/Google Chrome Canary : 3421.0
+Applications/Google Chrome : 3359.139
+Applications/Keynote : 5579
+Applications/Mail : 3445.8.2
+Applications/Numbers : 5579
+Applications/Pages : 5579
+Applications/Safari Technology Preview : 13606.1.15
+Applications/Safari : 13605.2.6
+Applications/iBooks : 1459.17
+Applications/stts : 22
+Frameworks/AVFoundation : 1536.23
+Frameworks/CoreMedia : 2276.47
+Frameworks/CoreServices : 822.33
+Frameworks/JavaScriptCore : 13605.2.6
+Frameworks/MediaToolbox : 2276.47
+Frameworks/QuartzCore : 584.52.1
+Frameworks/SafariServices : 13605.2.6
+Frameworks/Security : 58286.60.23
+Frameworks/VideoToolbox : 2276.47
+Frameworks/WebKit : 13605.2.6
+PrivateFrameworks/APTransport : 366.44
+PrivateFrameworks/AirPlayReceiver : 366.44
+PrivateFrameworks/AirPlaySender : 366.44
+PrivateFrameworks/AirPlaySupport : 366.44
+PrivateFrameworks/ConfigProfileHelper : 1091
+PrivateFrameworks/ConfigurationProfiles : 1091
+PrivateFrameworks/CoreUtils : 560.11
+PrivateFrameworks/DesktopServicesPriv : 1.12.5
+PrivateFrameworks/EasyConfig : 560.11
+PrivateFrameworks/Email : 3445.8.2
+PrivateFrameworks/EmailAddressing : 3445.8.2
+PrivateFrameworks/EmailCore : 3445.8.2
+PrivateFrameworks/GPUWrangler : 3.18.52
+PrivateFrameworks/IMAP : 3445.8.2
+PrivateFrameworks/Mail : 3445.8.2
+PrivateFrameworks/MailCore : 3445.8.2
+PrivateFrameworks/MailService : 3445.8.2
+PrivateFrameworks/MailSupport : 3445.8.2
+PrivateFrameworks/MailUI : 3445.8.2
+PrivateFrameworks/ManagedClient : 1091
+PrivateFrameworks/MediaControlSender : 366.44
+PrivateFrameworks/OSInstaller : 1005.3
+PrivateFrameworks/Rapport : 150.11
+PrivateFrameworks/RapportUI : 150.11
+PrivateFrameworks/Restore : 476
+PrivateFrameworks/Safari : 13605.2.6
+PrivateFrameworks/SafariCore : 13605.2.6
+PrivateFrameworks/SafariSafeBrowsing : 13605.2.6
+PrivateFrameworks/SafariShared : 13605.2.6
+PrivateFrameworks/TimeSync : 680.14
+PrivateFrameworks/UIFoundation : 547.5
+PrivateFrameworks/WebDriver : 13605.2.6
+PrivateFrameworks/WebInspector : 13605.2.6
+PrivateFrameworks/WebInspectorUI : 13605.2.6
+CoreServices/AirPlayUIAgent : 366.44
+CoreServices/CoreServicesUIAgent : 180.7.6
+CoreServices/Dock : 1849.16
+CoreServices/Keychain Circle Notification : 58286.60.23
+CoreServices/ManagedClient : 1091
+CoreServices/Paired Devices : 150.11
+CoreServices/RapportUIAgent : 150.11
+CoreServices/Setup Assistant : 2006.3
+CoreServices/loginwindow : 1791.5

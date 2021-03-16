@@ -1,0 +1,64 @@
+Applications/App Store : 1000
+Applications/Google Chrome Canary : 3592.0
+Applications/Google Chrome : 3538.77
+Applications/Image2Icon : 795
+Applications/Impactor : 1539672903
+Applications/Mail : 3445.101.1
+Applications/Safari Technology Preview : 14607.1.11
+Utilities/Bluetooth File Exchange : 6.0.9f2
+Utilities/Terminal : 421.1
+Frameworks/AppKit : 1671.10.106
+Frameworks/CoreFoundation : 1560.12
+Frameworks/CoreGraphics : 1247.4.1
+Frameworks/CoreMedia : 2282.19.104.4
+Frameworks/CoreTelephony : 6525.3
+Frameworks/Foundation : 1560.12
+Frameworks/IOBluetooth : 6.0.9f2
+Frameworks/IOBluetoothUI : 6.0.9f2
+Frameworks/ImageIO : 1821.6.4.1
+Frameworks/MediaLibrary : 762
+Frameworks/MediaToolbox : 2282.19.104.4
+Frameworks/NotificationCenter : 747.2
+Frameworks/QuartzCore : 694.22.4.1
+Frameworks/VideoToolbox : 2282.19.104.4
+PrivateFrameworks/AVConference : 1431.37.4.1
+PrivateFrameworks/AppleGVA : 11.7.37
+PrivateFrameworks/AppleGVACore : 11.7.37
+PrivateFrameworks/CommerceKit : 708.1.4
+PrivateFrameworks/ContactsAssistantServices : 146.11.4
+PrivateFrameworks/CoreHAP : 484.2.2.4.1
+PrivateFrameworks/CoreParsec : 213.1.45.1
+PrivateFrameworks/CoreSymbolication : 64460.6
+PrivateFrameworks/DTXConnectionServices : 64460.15
+PrivateFrameworks/Email : 3445.101.1
+PrivateFrameworks/EmailAddressing : 3445.101.1
+PrivateFrameworks/EmailCore : 3445.101.1
+PrivateFrameworks/GameKitServices : 1431.37.4.1
+PrivateFrameworks/HomeKit : 484.2.2.4.1
+PrivateFrameworks/HomeKitDaemon : 484.2.2.4.1
+PrivateFrameworks/IMAP : 3445.101.1
+PrivateFrameworks/IOAccelerator : 400.27
+PrivateFrameworks/Mail : 3445.101.1
+PrivateFrameworks/MailCore : 3445.101.1
+PrivateFrameworks/MailService : 3445.101.1
+PrivateFrameworks/MailSupport : 3445.101.1
+PrivateFrameworks/MailUI : 3445.101.1
+PrivateFrameworks/NotificationCenterUI : 747.2
+PrivateFrameworks/SearchFoundation : 213.1.45.1
+PrivateFrameworks/SiriFoundation : 146.11.4
+PrivateFrameworks/SiriUI : 146.11.4
+PrivateFrameworks/SoftwareUpdate : 1165.2
+PrivateFrameworks/StoreFoundation : 708.1.4
+PrivateFrameworks/StoreJavaScript : 708.1.4
+PrivateFrameworks/StoreUI : 708.1.4
+PrivateFrameworks/Symbolication : 64460.8
+PrivateFrameworks/iLifeMediaBrowser : 762
+CoreServices/Bluetooth Setup Assistant : 6.0.9f2
+CoreServices/BluetoothUIServer : 6.0.9f2
+CoreServices/NotificationCenter : 747.2
+CoreServices/OBEXAgent : 6.0.9f2
+CoreServices/Siri : 146.11.4
+CoreServices/Software Update : 1165.2
+Frameworks/MessageUI : 3445.100.43
+PrivateFrameworks/MIME : 3445.100.43
+PrivateFrameworks/MessageSupport : 3445.100.43

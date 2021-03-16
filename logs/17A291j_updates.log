@@ -1,0 +1,118 @@
+PrivateFrameworks/OpenDirectoryConfigUI : 85
+PrivateFrameworks/PASampling : 175
+PrivateFrameworks/PIP : 79
+PrivateFrameworks/PSNormalizer : 21
+PrivateFrameworks/PackageKit : 719
+PrivateFrameworks/ParsecUI : 1163.3
+PrivateFrameworks/PerformanceAnalysis : 175
+PrivateFrameworks/PhotoAnalysis : 3201.8.112
+PrivateFrameworks/PhotoImaging : 3201.5.191
+PrivateFrameworks/PhotoLibrary : 3201.8.202
+PrivateFrameworks/PhotoLibraryPrivate : 3201.8.202
+PrivateFrameworks/PhotosPlayer : 3201.3.230
+PrivateFrameworks/PhotosUICore : 3201.8.130
+PrivateFrameworks/PlacesKit : 3201.8.130
+PrivateFrameworks/PowerlogCore : 1
+PrivateFrameworks/PowerlogLiteOperators : 1
+PrivateFrameworks/PrintingPrivate : 179
+PrivateFrameworks/ProofReader : 426
+PrivateFrameworks/RTCReporting : 9.24
+PrivateFrameworks/Rapport : 100.26
+PrivateFrameworks/RapportUI : 100.26
+PrivateFrameworks/RemoteServiceDiscovery : 1173
+PrivateFrameworks/RemoteXPC : 1173
+PrivateFrameworks/ResponseKit : 103
+PrivateFrameworks/Restore : 426
+PrivateFrameworks/Safari : 13604.1.25.3.2
+PrivateFrameworks/SafariCore : 13604.1.25.3.2
+PrivateFrameworks/SafariSafeBrowsing : 13604.1.25.3.2
+PrivateFrameworks/SafariShared : 13604.1.25.3.2
+PrivateFrameworks/ScreenReader : 532
+PrivateFrameworks/SearchFoundation : 164
+PrivateFrameworks/SecCodeWrapper : 355
+PrivateFrameworks/Sharing : 869
+PrivateFrameworks/SignpostNotification : 1
+PrivateFrameworks/SiriFoundation : 136
+PrivateFrameworks/SiriTTS : 121
+PrivateFrameworks/SiriUI : 136
+PrivateFrameworks/SoftwareUpdate : 1061
+PrivateFrameworks/SpeechObjects : 7.0.12
+PrivateFrameworks/Spotlight : 1163.3
+PrivateFrameworks/SpotlightIndex : 1163.3
+PrivateFrameworks/SpotlightServerKit : 1163.3
+PrivateFrameworks/SpotlightServices : 1163.3
+PrivateFrameworks/StorageKit : 362
+PrivateFrameworks/StoreFoundation : 637.1
+PrivateFrameworks/StoreJavaScript : 637.1
+PrivateFrameworks/StoreUI : 637.1
+PrivateFrameworks/StoreXPCServices : 637.1
+PrivateFrameworks/Symbolication : 63062
+PrivateFrameworks/SymptomDiagnosticManagement : 787
+PrivateFrameworks/SymptomDiagnosticReporter : 787
+PrivateFrameworks/SymptomReporter : 787
+PrivateFrameworks/Symptoms : 787
+PrivateFrameworks/SyncedDefaults : 270
+PrivateFrameworks/SystemMigration : 1125
+PrivateFrameworks/TTYUtilities : 1
+PrivateFrameworks/TimeSync : 600.12
+PrivateFrameworks/Tourist : 1.0.35
+PrivateFrameworks/UIFoundation : 531
+PrivateFrameworks/UniversalAccess : 343
+PrivateFrameworks/UserActivity : 89
+PrivateFrameworks/VectorKit : 1317.20.6.9.4
+PrivateFrameworks/VideoSubscriberAccount : 190
+PrivateFrameworks/ViewBridge : 330
+PrivateFrameworks/VisualPairing : 100.12
+PrivateFrameworks/WebDriver : 13604.1.25.3.2
+PrivateFrameworks/WebInspector : 13604.1.25.3.2
+PrivateFrameworks/WebInspectorUI : 13604.1.25.3.2
+PrivateFrameworks/WiFiVelocity : 100
+PrivateFrameworks/iCalendar : 275
+PrivateFrameworks/iLifeMediaBrowser : 748
+PrivateFrameworks/iWorkXPC : 3
+PrivateFrameworks/ktrace : 201
+PrivateFrameworks/oncrpc : 38
+PrivateFrameworks/vCard : 2313
+CoreServices/AddPrinter : 554
+CoreServices/AddressBookUrlForwarder : 1791.1
+CoreServices/AirPlayUIAgent : 351.9
+CoreServices/Automator Runner : 440
+CoreServices/Bluetooth Setup Assistant : 6.0.0d47
+CoreServices/BluetoothUIServer : 6.0.0d47
+CoreServices/Captive Network Assistant : 5.0
+CoreServices/ControlStrip : 156
+CoreServices/CoreServicesUIAgent : 178
+CoreServices/DiskImageMounter : 479
+CoreServices/Dock : 1823
+CoreServices/Dwell Control : 175
+CoreServices/Expansion Slot Utility : 1.5.2b1
+CoreServices/HelpViewer : 320
+CoreServices/Install in Progress : 719
+CoreServices/Installer Progress : 434
+CoreServices/Installer : 917
+CoreServices/Language Chooser : 549
+CoreServices/ManagedClient : 1031
+CoreServices/Memory Slot Utility : 1.5.2b1
+CoreServices/NotificationCenter : 619
+CoreServices/OBEXAgent : 6.0.0d47
+CoreServices/PIPAgent : 79
+CoreServices/Paired Devices : 100.26
+CoreServices/Photo Library Migration Utility : 2000.19.0
+CoreServices/RapportUIAgent : 100.26
+CoreServices/Setup Assistant : 1950.1
+CoreServices/Siri : 136
+CoreServices/Software Update : 1061
+CoreServices/Spotlight : 1163.3
+CoreServices/SystemUIServer : 460
+CoreServices/UniversalAccessControl : 343
+CoreServices/UserNotificationCenter : 36
+CoreServices/VoiceOver : 532
+CoreServices/WiFiAgent : 1329.1
+CoreServices/cloudphotosd : 3201.8.202
+CoreServices/loginwindow : 1776.1
+CoreServices/rcd : 350
+CoreServices/screencapturetb : 128
+Applications/Directory Utility : 411
+Applications/Feedback Assistant : 313
+Applications/Network Utility : 113
+Applications/Screen Sharing : 495.18

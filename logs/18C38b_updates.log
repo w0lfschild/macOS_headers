@@ -1,0 +1,104 @@
+Applications/Battle.net : 1.12.5 (10734)
+Applications/Flashlight : 63
+Applications/GitHub Desktop : 1.4.3
+Applications/Google Chrome Canary : 3608.4
+Applications/Google Chrome : 3538.102
+Applications/IINA : 92
+Applications/Keka : 3031
+Applications/Keynote : 5989
+Applications/Maps : 2132.22.10.1.10
+Applications/News : 1705
+Applications/Numbers : 5989
+Applications/Pages : 5989
+Applications/Photos : 3421.5.220
+Applications/Plex Media Server : 1.13.9.5456
+Applications/Safari Technology Preview : 14607.1.12
+Applications/Safari : 14606.3.4
+Applications/Spotify : 1.0.93.244.g1e3a05e7-18
+Applications/iMovie : 330236
+Utilities/Boot Camp Assistant : 6067.230.1
+Utilities/VoiceOver Utility : 562.84.4
+Frameworks/AVFoundation : 1544.5
+Frameworks/AppKit : 1671.20.103
+Frameworks/CFNetwork : 976
+Frameworks/CoreImage : 720.0.130
+Frameworks/CoreLocation : 2245.8.21
+Frameworks/CoreMedia : 2284.9
+Frameworks/CoreServices : 941
+Frameworks/CoreSpotlight : 231.47
+Frameworks/CoreTelephony : 6610.1
+Frameworks/JavaScriptCore : 14606.3.4
+Frameworks/MediaToolbox : 2284.9
+Frameworks/Metal : 158.5
+Frameworks/Photos : 3421.5.220
+Frameworks/PhotosUI : 3421.5.220
+Frameworks/QuickLook : 775.3
+Frameworks/SafariServices : 14606.3.4
+Frameworks/SceneKit : 470.5
+Frameworks/Security : 58286.230.21
+Frameworks/VideoToolbox : 2284.9
+Frameworks/WebKit : 14606.3.4
+PrivateFrameworks/AirTrafficHost : 4016.200.4
+PrivateFrameworks/AssistiveControlSupport : 196.70
+PrivateFrameworks/BridgeOSInstall : 56.2
+PrivateFrameworks/BridgeOSInstallReporting : 56.2
+PrivateFrameworks/CalendarFoundation : 591.3.1
+PrivateFrameworks/CloudPhotoServices : 3421.5.220
+PrivateFrameworks/ContactsAssistantServices : 146.12.3
+PrivateFrameworks/CoreParsec : 213.2.4
+PrivateFrameworks/DiskImages : 480.230.2
+PrivateFrameworks/FileProvider : 125.130
+PrivateFrameworks/GPUWrangler : 3.28.4
+PrivateFrameworks/IOAccelerator : 404.2.2
+PrivateFrameworks/MTLCompiler : 158.5
+PrivateFrameworks/MetadataUtilities : 1191.53
+PrivateFrameworks/MobileAsset : 437.230.2
+PrivateFrameworks/MobileDevice : 988.220.5
+PrivateFrameworks/OSInstaller : 1151.3.1
+PrivateFrameworks/ParsecModel : 15000
+PrivateFrameworks/ParsecUI : 1191.53
+PrivateFrameworks/PhotoFoundation : 3421.5.220
+PrivateFrameworks/PhotoLibrary : 3421.5.220
+PrivateFrameworks/PhotoLibraryPrivate : 3421.5.220
+PrivateFrameworks/PhotosFormats : 3421.5.220
+PrivateFrameworks/PhotosImagingFoundation : 3421.5.220
+PrivateFrameworks/Safari : 14606.3.4
+PrivateFrameworks/SafariCore : 14606.3.4
+PrivateFrameworks/SafariSafeBrowsing : 14606.3.4
+PrivateFrameworks/SafariShared : 14606.3.4
+PrivateFrameworks/ScreenReader : 562.84.4
+PrivateFrameworks/ScreenReaderCore : 562.84.4
+PrivateFrameworks/SearchFoundation : 213.2.4
+PrivateFrameworks/ShareKit : 577.0.1
+PrivateFrameworks/Sharing : 1214.18
+PrivateFrameworks/SiriFoundation : 146.12.3
+PrivateFrameworks/SiriUI : 146.12.3
+PrivateFrameworks/SoftwareUpdate : 1170.4
+PrivateFrameworks/Spotlight : 1191.53
+PrivateFrameworks/SpotlightIndex : 1191.53
+PrivateFrameworks/SpotlightServerKit : 1191.53
+PrivateFrameworks/SpotlightServices : 1191.53
+PrivateFrameworks/WebDriver : 14606.3.4
+PrivateFrameworks/WebInspector : 14606.3.4
+PrivateFrameworks/WebInspectorUI : 14606.3.4
+CoreServices/DiskImageMounter : 480.230.2
+CoreServices/Dwell Control : 196.70
+CoreServices/Finder : 1143.2.2
+CoreServices/Keychain Circle Notification : 58286.230.21
+CoreServices/Siri : 146.12.3
+CoreServices/Software Update : 1170.4
+CoreServices/Spotlight : 1191.53
+CoreServices/VoiceOver : 562.84.4
+CoreServices/cloudphotosd : 3421.5.220
+Applications/Directory Utility : 422
+Frameworks/MobileCoreServices : 941
+PrivateFrameworks/NewsCore : 1705
+PrivateFrameworks/NewsFeedLayout : 1705
+PrivateFrameworks/NewsFoundation : 1705
+PrivateFrameworks/NewsServicesInternal : 1705
+PrivateFrameworks/NewsTransport : 1705
+PrivateFrameworks/NewsUI : 1705
+PrivateFrameworks/RemoteConfiguration : 1705
+PrivateFrameworks/Silex : 1705
+PrivateFrameworks/WebCore : 14606.3.4
+PrivateFrameworks/WebKitLegacy : 14606.3.4

@@ -1,0 +1,93 @@
+Applications/Battle.net : 1.12.0 (10156)
+Applications/Dark Boot : 130
+Applications/GitHub Desktop : 1.2.0
+Applications/Google Chrome Canary : 3446.0
+Applications/HiddenMe : 28
+Applications/Mail : 3445.9.1
+Applications/PhotoScapeX : 282
+Applications/Safari Technology Preview : 13606.1.18
+Applications/Safari : 13605.3.4
+Applications/Sublime Text : 3176
+Applications/iTunes : 12.7.5
+Applications/stts : 25
+Utilities/Bluetooth File Exchange : 6.0.7f7
+Frameworks/AVFoundation : 1536.36
+Frameworks/CFNetwork : 902
+Frameworks/CoreDisplay : 99.14
+Frameworks/CoreFoundation : 1454.90
+Frameworks/CoreMedia : 2276.63
+Frameworks/CoreMediaIO : 4995
+Frameworks/Foundation : 1454.90
+Frameworks/GLKit : 101
+Frameworks/IOBluetooth : 6.0.7f7
+Frameworks/IOBluetoothUI : 6.0.7f7
+Frameworks/IOSurface : 211.15
+Frameworks/JavaScriptCore : 13605.3.4
+Frameworks/Kernel : 17.7.0
+Frameworks/LocalAuthentication : 425.70.1
+Frameworks/MediaToolbox : 2276.63
+Frameworks/Metal : 125.29
+Frameworks/OpenCL : 2.8.21
+Frameworks/OpenGL : 16.7.4
+Frameworks/QuartzCore : 584.62
+Frameworks/Ruby : 2.3.7-131.70.1
+Frameworks/SafariServices : 13605.3.4
+Frameworks/Security : 58286.70.4
+Frameworks/VideoToolbox : 2276.63
+Frameworks/WebKit : 13605.3.4
+PrivateFrameworks/APTransport : 366.65
+PrivateFrameworks/AirPlayReceiver : 366.65
+PrivateFrameworks/AirPlaySender : 366.65
+PrivateFrameworks/AirPlaySupport : 366.65
+PrivateFrameworks/AppleGVA : 11.6.8
+PrivateFrameworks/AppleGVACore : 11.6.8
+PrivateFrameworks/AppleVPA : 3.8.1
+PrivateFrameworks/AudioServerApplication : 312.1
+PrivateFrameworks/AudioServerDriver : 312.1
+PrivateFrameworks/BezelServices : 305.1
+PrivateFrameworks/CoreKE : 4.18.1
+PrivateFrameworks/DFRDisplay : 112.70.8
+PrivateFrameworks/Email : 3445.9.1
+PrivateFrameworks/EmailAddressing : 3445.9.1
+PrivateFrameworks/EmailCore : 3445.9.1
+PrivateFrameworks/GPUSupport : 16.7.4
+PrivateFrameworks/GPUWrangler : 3.20.11
+PrivateFrameworks/HelpData : 167.2
+PrivateFrameworks/IMAP : 3445.9.1
+PrivateFrameworks/IOAccelerator : 378.25
+PrivateFrameworks/LocalAuthenticationUI : 425.70.1
+PrivateFrameworks/MTLCompiler : 125.29
+PrivateFrameworks/Mail : 3445.9.1
+PrivateFrameworks/MailCore : 3445.9.1
+PrivateFrameworks/MailService : 3445.9.1
+PrivateFrameworks/MailSupport : 3445.9.1
+PrivateFrameworks/MailUI : 3445.9.1
+PrivateFrameworks/MediaControlSender : 366.65
+PrivateFrameworks/MobileDevice : 988.50.16.100.2
+PrivateFrameworks/MultiverseSupport : 27.70.7
+PrivateFrameworks/NearField : 286.1
+PrivateFrameworks/OfficeImport : 257.4.1
+PrivateFrameworks/RemoteServiceDiscovery : 1205.70.5
+PrivateFrameworks/RemoteXPC : 1205.70.5
+PrivateFrameworks/Restore : 480
+PrivateFrameworks/Safari : 13605.3.4
+PrivateFrameworks/SafariCore : 13605.3.4
+PrivateFrameworks/SafariSafeBrowsing : 13605.3.4
+PrivateFrameworks/SafariShared : 13605.3.4
+PrivateFrameworks/SafeEjectGPU : 18
+PrivateFrameworks/SignpostCollection : 2.6
+PrivateFrameworks/SignpostNotification : 2.6
+PrivateFrameworks/SignpostSupport : 2.6
+PrivateFrameworks/UniversalAccess : 361.13.8
+PrivateFrameworks/WebDriver : 13605.3.4
+PrivateFrameworks/WebInspector : 13605.3.4
+PrivateFrameworks/WebInspectorUI : 13605.3.4
+PrivateFrameworks/iTunesAccess : 12.7.5
+CoreServices/AirPlayUIAgent : 366.65
+CoreServices/Bluetooth Setup Assistant : 6.0.7f7
+CoreServices/BluetoothUIServer : 6.0.7f7
+CoreServices/HelpViewer : 341.1
+CoreServices/Keychain Circle Notification : 58286.70.4
+CoreServices/OBEXAgent : 6.0.7f7
+CoreServices/Setup Assistant : 2010.1.2
+CoreServices/UniversalAccessControl : 361.13.8
